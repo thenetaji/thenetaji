@@ -3,7 +3,7 @@ Myself thenetaji, a passionate developer who likes to creates tools which helps 
 
 ### Contact 
 If you want to contact me for any reason feel free to mail me
-`contact.self888@passinbox.com`
+`thenetaji@proton.me`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thenetaji/thenetaji/output/github-snake-dark.svg" />
